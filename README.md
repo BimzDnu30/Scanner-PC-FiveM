@@ -47,6 +47,13 @@ FiveM Cheat Scanner adalah tools berbasis **Node.js** untuk melakukan pemindaian
 - Anti-Echo
 - Bongsai
 
+##⚠️ Disclaimer
+
+- Tool ini tidak menghapus atau memodifikasi file
+- Tidak melakukan perubahan registry atau sistem
+- Deteksi berbasis nama file → false positive bisa terjadi
+- Gunakan sebagai alat bantu investigasi, bukan bukti tunggal
+
 ## 📦 Requirements
 
 - Node.js v16 atau lebih baru
