@@ -59,6 +59,15 @@ FiveM Cheat Scanner adalah tools berbasis **Node.js** untuk melakukan pemindaian
 - Node.js v16 atau lebih baru
 - OS: Windows (recommended)
 
+## 🌐 Additional Scanner
+
+- Untuk hasil lebih akurat, gunakan scanner online tambahan:
+- https://detect.ac/tools
+
+##🧑‍💻 Author
+
+- Bimz
+- FiveM Community Tool
 
 ## 📥 Installation
 
